@@ -1,0 +1,16 @@
+h1{
+  color: blue;
+  text-align: center;
+  font-style: bold;
+  font-family: sans-serif;
+}
+
+p{
+  column-fill: balance;
+  color: green;
+  background-color: brown;
+  background-position: center;
+}
+body{
+  background-color: grey;
+}
